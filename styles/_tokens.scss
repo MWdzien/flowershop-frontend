@@ -1,0 +1,19 @@
+:root {
+  --cream: #F4ECD8;
+  --cream-dark: #EADFC6;
+  --bottle: #1C3828;
+  --bottle-mid: #2D5140;
+  --sage: #7A9E80;
+  --sage-pale: #D8E8D4;
+  --blush: #D9A898;
+  --ink: #2A2318;
+  --ink-soft: #4A4035;
+
+  --ff-display: var(--font-fraunces), Georgia, serif;
+  --ff-body: var(--font-spectral), Georgia, serif;
+
+  --container: min(1400px, 100% - 3rem);
+  --space-section: clamp(4rem, 8vw, 8rem);
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
